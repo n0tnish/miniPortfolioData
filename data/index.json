@@ -1,0 +1,57 @@
+{
+    "about": [
+        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
+        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2020,
+            "description": "I matriculated.",
+            "place": "Al-Azhar High School",
+            "type": "Bachelors Pass",
+            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+        },
+        {
+            "id": 2,
+            "year": 2021,
+            "description": "I studied humanities",
+            "place": "University of the Western Cape",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+        },
+        {
+            "id": 3,
+            "year": 2021,
+            "description": "I completed a course in Fashion Design.",
+            "place": "FEDISA/Fashion Academy of Cape Town",
+            "type": "certificate, advanced certificate, diploma.",
+            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+        },
+        {
+            "id": 4,
+            "year": 2022,
+            "description": "I started studying Psychology ",
+            "place": "Coursera(online)",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/102891ip_JFl_NEwW942zbvbkG7SXHx0G/view"
+        },
+        {
+            "id": 5,
+            "year": 2022,
+            "description": "Further studies in psychology",
+            "place": "University of South Africa",
+            "type": "Degree",
+            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
+        },
+        {
+            "id": 6,
+            "year": 2022,
+            "description": "Started a 6 month ",
+            "place": "Havatech",
+            "type": "Certificate",
+            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
+    
+        },
+        
+]}
